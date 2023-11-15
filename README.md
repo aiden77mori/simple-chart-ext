@@ -9,7 +9,7 @@
 
 # How it works!
 
-![Screenshot](https://github.com/aiden77mori/Chrome-Extention-Charts/blob/main/Screeshot.png)
+![Screenshot](https://github.com/aiden77mori/simple-chart-ext/blob/main/Screeshot.png)
 
 # API Used:
 
